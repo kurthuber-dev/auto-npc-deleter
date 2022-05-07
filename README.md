@@ -1,0 +1,1 @@
+# auto-npc-deleter
